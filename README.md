@@ -1,5 +1,5 @@
 ## Olá eu sou Guilherme Teixeira, estudante de Análise e Desenvolvimento de Sistemas.
-	👉 Atualmente estou a procura de uma oportunidade - ESTÁGIO 👩‍💻
+	👉 Atualmente estou a procura de uma oportunidade - ESTÁGIO ou JÚNIOR 👩‍💻
 
 
 
