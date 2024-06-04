@@ -11,8 +11,8 @@
   <img align="center" alt="Gui-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-powerbi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Gui-python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img align="center" alt="Gui-php" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">	
-  <img align="center" alt="Gui-sql" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg">	
+  <img align="center" alt="Gui-php" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">	
+  <img align="center" alt="Gui-sql" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg">	
 </div>
 
 ###
